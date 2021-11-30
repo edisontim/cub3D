@@ -1,0 +1,14 @@
+R 1080 720
+NO ./textures/greystone.xpm
+SO ./textures/redbrick.xpm
+EA ./textures/colorstone.xpm
+WE ./textures/wood.xpm
+S ./textures/barrel.xpm
+C 255,200,160
+F 122,122,122
+
+11111
+10001
+1N201
+10001
+11111
